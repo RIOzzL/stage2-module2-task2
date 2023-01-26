@@ -2,6 +2,7 @@
 <%--<%@ page  %>--%>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <c:set var="language" value="en" scope="session"/>
+<!DOCTYPE html>
 <html>
 <head lang="en" xml:lang="en">
     <meta charset="utf-8">
