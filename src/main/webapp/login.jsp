@@ -1,8 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" isELIgnored="false" %>
 
+<!DOCTYPE html>
 </html>
-<head>
-<title> Registration page</title>
+<head lang="en" xml:lang="en">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <title> Registration page</title>
 </head>
 <h3>Init time: ${servletTimeInit}</h3>
 <body>
